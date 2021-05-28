@@ -9,7 +9,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-For more details see [GitHub Flavored Markdown](https://samanuske.github.io/bord/).
+
 1. Numbered
 2. List
 
@@ -17,7 +17,7 @@ For more details see [GitHub Flavored Markdown](https://samanuske.github.io/bord
 
 [Link](url) and ![Image](src)
 ```
-
+For more details see [GitHub ](https://samanuske.github.io/bord/).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
