@@ -9,9 +9,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-[Link](https://samanuske.github.io/bord/Test documents.xlsx)![Image](src)
+For more details see [GitHub Flavored Markdown](https://samanuske.github.io/bord/Test documents.xlsx).
 1. Numbered
 2. List
 
