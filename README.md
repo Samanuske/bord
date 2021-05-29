@@ -12,7 +12,7 @@
 ```
 ### Основные моменты тестирования [Test Documents](https://samanuske.github.io/bord/Test documents.xlsx).
 
-### Тест-план [Test Plan](https://samanuske.github.io/bord/Test documents.xlsx).
+### Тест-план [Test Plan](https://samanuske.github.io/bord/Тестплан Расход топлива.docx).
 
 ### Архив с проектом  [Project](https://samanuske.github.io/bord/TestVisualFull.rar).
 
