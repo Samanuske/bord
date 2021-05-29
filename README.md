@@ -14,6 +14,6 @@
 
 ### Тест-план [Test Plan](https://samanuske.github.io/bord/Test documents.xlsx).
 
-### Архив с проектом  [Project](https://samanuske.github.io/bord/Test documents.xlsx).
+### Архив с проектом  [Project](https://samanuske.github.io/bord/TestVisualFull.rar).
 
 
