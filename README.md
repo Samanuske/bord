@@ -12,7 +12,7 @@
 ```
 ### Основные моменты тестирования [Test Documents](https://samanuske.github.io/bord/Test documents.xlsx).
 
-### Техническое задание [Technical specification](https://samanuske.github.io/bord/ТЗ-РСТ-01.docx)
+### Техническое задание [Technical Specification](https://samanuske.github.io/bord/ТЗ-РСТ-01.docx).
 
 ### Тест-план [Test Plan](https://samanuske.github.io/bord/Тестплан Расход топлива.docx).
 
